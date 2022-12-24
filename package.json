@@ -19,7 +19,7 @@
     "@titaniumnetwork-dev/ultraviolet": "^1.0.5",
     "@tomphttp/bare-server-node": "^1.2.2",
     "express": "^4.18.2",
-    "plutonium-static": "file:../Plutonium-Static"
+    "plutonium-static": "github:piplup7575/plutonium-static"
   },
   "devDependencies": {
     "eslint": "^8.23.1",
